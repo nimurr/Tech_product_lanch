@@ -1,0 +1,50 @@
+[
+    {
+      "id": "1",
+      "img": "https://raw.githubusercontent.com/nerobIslam404/ass-all-img/main/ass-9-imgall/images6.jpeg",
+      "phone_name": "Phone Launch",
+      "Price": 1099.99,
+      "Description": "In today's fast-paced world of technology, staying informed about the latest mobile phones is essential for tech enthusiasts and consumers alike. Whether you're interested in purchasing a new smartphone or simply want to stay up-to-date with the latest trends, various online sources provide valuable information on mobile phones.In today's fast-paced world of technology, staying informed about the latest mobile phones is essential for tech enthusiasts and consumers alike. Whether you're interested in purchasing a new smartphone or simply want to stay up-to-date with the latest trends, various online sources provide valuable information on mobile phones.",
+      "location": "New York, NY"
+    },
+    {
+      "id": "2",
+      "img": "https://img.freepik.com/free-vector/web-development-isometric-concept-composition-illustration_1284-55922.jpg?size=626&ext=jpg&uid=R36979055&ga=GA1.2.1601662540.1684998039&semt=sph",
+      "phone_name": "Software Launch",
+      "Price": 799.99,
+      "Description": "Funtouch OS 14 brings several improvements and optimizations to the operating system, aiming to provide a seamless and efficient user experience. While the specific details of all the enhancements weren't provided in the search results, the emphasis on display smoothness indicates that Vivo is committed to delivering a visually pleasing and responsive interface to its users.Software updates like Funtouch OS 14 are crucial for ensuring that smartphones remain competitive and provide the latest features and optimizations. As technology continues to advance, smartphone manufacturers regularly release software updates to keep their devices up-to-date and deliver the best possible performance to users.",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "id": "3",
+      "img": "https://img.freepik.com/free-vector/modern-devices-isometric-icons-collection-with-sixteen-isolated-images-computers-periphereals-various-consumer-electronics-illustration_1284-29118.jpg?size=626&ext=jpg&uid=R36979055&ga=GA1.2.1601662540.1684998039&semt=sph",
+      "phone_name": "Electronic Product Launch",
+      "Price": 499.99,
+      "Description": "Electronic product launches are significant events in the tech industry where companies introduce new gadgets, devices, and innovations to the market. These launches generate excitement among consumers, tech enthusiasts, and the media, as they provide a glimpse into the future of technology. Electronic product launches are significant events in the tech industry where companies introduce new gadgets, devices, and innovations to the market. These launches generate excitement among consumers, tech enthusiasts, and the media, as they provide a glimpse into the future of technology. CES is one of the largest and most prominent annual events for electronic product launches. It takes place in Las Vegas and features the unveiling of the latest technology and gadgets from various companies. ",
+      "location": "Chicago, IL"
+    },
+    {
+      "id": "4",
+      "img": "https://img.freepik.com/free-vector/spacecraft-realistic-background_1284-72905.jpg?w=740&t=st=1696698418~exp=1696699018~hmac=2f114b54c86b0b733ba92c06ceff7c2857db2e0eeb820628e303d22304900660",
+      "phone_name": "Satellite technology Launch",
+      "Price": 699.99,
+      "Description": "Before a satellite can be launched, the mission objectives and satellite design must be carefully planned. This includes determining the satellite's purpose, orbit, payload, and technical specifications. The satellite's payload, which can include instruments, cameras, communication equipment, and scientific instruments, is integrated into the satellite's structure. Payload integration is a critical step as it determines the satellite's primary function.A suitable launch vehicle (rocket) is selected based on the satellite's size, weight, and intended orbit. Different rockets are used for different types of missions.",
+      "location": "Houston, TX"
+    },
+    {
+      "id": "5",
+      "img": "https://img.freepik.com/free-photo/ai-nuclear-energy-background-future-innovation-disruptive-technology_53876-129783.jpg?size=626&ext=jpg&uid=R36979055&ga=GA1.2.1601662540.1684998039&semt=sph",
+      "phone_name": "Robotic Product Launch",
+      "Price": 599.99,
+      "Description": "The search results do not provide specific information about a recent robotic product launch. Therefore, I cannot provide details about a specific robotic product launch based on the available information. If you have a specific robotic product or event in mind, please provide additional details, and I will do my best to provide relevant information.The search results do not provide specific information about a recent robotic product launch. Therefore, I cannot provide details about a specific robotic product launch based on the available information. If you have a specific robotic product or event in mind, please provide additional details, and I will do my best to provide relevant information.",
+      "location": "Miami, FL"
+    },
+    {
+      "id": "6",
+      "img": "https://img.freepik.com/premium-psd/modern-video-game-review-youtube-channel-thumbnail-web-banner-template-premium-psd_449870-724.jpg?w=826",
+      "phone_name": "Gaming Product Launch",
+      "Price": 499.99,
+      "Description": "These recent product launches highlight the continuous innovation and development in the gaming industry, catering to the needs and preferences of gamers.The realme 10 is a budget smartphone designed for casual gamers and entertainment enthusiasts. It features a capable screen and acceptable performance .These recent product launches highlight the continuous innovation and development in the gaming industry, catering to the needs and preferences of gamers.The realme 10 is a budget smartphone designed for casual gamers and entertainment enthusiasts. It features a capable screen and acceptable performance .These recent product launches highlight the continuous innovation and development in the gaming industry, catering to the needs and preferences of gamers.The realme 10 is a budget smartphone designed for casual gamers and entertainment enthusiasts. It features a capable screen and acceptable performance . ",
+      "location": "San Francisco, CA"
+    }
+  ]
